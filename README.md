@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-dark.svg" alt="Singularity Hero" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/wave-hero-dark.svg">
+  <img src="./assets/wave-hero-dark.svg" alt="Wave Signal" width="100%">
 </picture>
 
 <picture>
